@@ -116,17 +116,20 @@ class Dialog(object):
 			filename = "XXX"
 		return(filename)
 
-#def main():
-#	dia = Dialog()
-#	filename = dia.fileOpenDialog()
-#	if filename != "XXX":
-#		escsv = ErsetzenCSV(filename)
+def main():
+	dia = Dialog()
+	filename = dia.fileOpenDialog()
+	if filename != "XXX":
+		escsv = ErsetzenCSV(filename)
+		escsv.fileOpenR()
+		lr = LineReplacer(escsv.readLines())
+		lr.do_replacement()
 #		escsv.replaceStrings("‖","\t\"")
 #		escsv.replaceStrings("\t\t","\t")
 #		escsv.replaceStrings("\t20","\t\"\t20")
 #		escsv.replaceStrings("\t\t\"\t20","\"\t20")
-#		escsv.writeNewFile()
-#	return 0
+		escsv.writeNewFile()
+	return 0
 
 if __name__ == '__main__':
 	main()

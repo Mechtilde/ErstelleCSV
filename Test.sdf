@@ -1,0 +1,50 @@
+#
+#    ####    ###     #   #   ###   #####    #####  ####   #####  #####  
+#    #   #  #   #    ##  #  #   #    #      #      #   #    #      #    
+#    #   #  #   #    # # #  #   #    #      ###    #   #    #      #    
+#    #   #  #   #    #  ##  #   #    #      #      #   #    #      #    
+#    ####    ###     #   #   ###     #      #####  ####   #####    #    
+#
+#    DO NOT EDIT! This file will be overwritten by localisation process
+#
+#**************************************************************
+#  
+#  Licensed to the Apache Software Foundation (ASF) under one
+#  or more contributor license agreements.  See the NOTICE file
+#  distributed with this work for additional information
+#  regarding copyright ownership.  The ASF licenses this file
+#  to you under the Apache License, Version 2.0 (the
+#  "License"); you may not use this file except in compliance
+#  with the License.  You may obtain a copy of the License at
+#  
+#    http://www.apache.org/licenses/LICENSE-2.0
+#  
+#  Unless required by applicable law or agreed to in writing,
+#  software distributed under the License is distributed on an
+#  "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+#  KIND, either express or implied.  See the License for the
+#  specific language governing permissions and limitations
+#  under the License.
+#  
+#**************************************************************
+
+
+
+accessibility	source\helper\accessiblestrings.src	0	string	RID_STR_ACC_NAME_BROWSEBUTTON				1	kid	y9+w<6‖Browse				20100909 15:07:15
+accessibility	source\helper\accessiblestrings.src	0	string	RID_STR_ACC_DESC_PANELDECL_TABBAR				1	kid	2yw0u>‖Panel Deck Tab Bar				20100909 15:07:15
+avmedia	source\framework\mediacontrol.src	0	string	AVMEDIA_STR_OPEN				1	kid	qewlwz‖Open				20100909 15:07:18
+avmedia	source\framework\mediacontrol.src	0	string	AVMEDIA_STR_INSERT				1	kid	vv+ua3‖Apply				20100909 15:07:18
+avmedia	source\framework\mediacontrol.src	0	string	AVMEDIA_STR_PLAY				1	kid	fozrdn‖Play				20100909 15:07:18
+avmedia	source\framework\mediacontrol.src	0	string	AVMEDIA_STR_PAUSE				1	kid	zvye59‖Pause				20100909 15:07:18
+avmedia	source\framework\mediacontrol.src	0	string	AVMEDIA_STR_STOP				1	kid	hc+l+f‖Stop				20100909 15:07:18
+avmedia	source\framework\mediacontrol.src	0	string	AVMEDIA_STR_ENDLESS				1	kid	x9j=0y‖Repeat				20100909 15:07:18
+avmedia	source\framework\mediacontrol.src	0	string	AVMEDIA_STR_MUTE				1	kid	+jdb8a‖Mute				20100909 15:07:18
+avmedia	source\framework\mediacontrol.src	0	string	AVMEDIA_STR_ZOOM				1	kid	5>-5=2‖View				20100909 15:07:18
+avmedia	source\framework\mediacontrol.src	0	string	AVMEDIA_STR_ZOOM_50				1	kid	9ndm=t‖50%				20100909 15:07:18
+avmedia	source\framework\mediacontrol.src	0	string	AVMEDIA_STR_ZOOM_100				1	kid	lm7nq1‖100%				20100909 15:07:18
+avmedia	source\framework\mediacontrol.src	0	string	AVMEDIA_STR_ZOOM_200				1	kid	2qy3-s‖200%				20100909 15:07:18
+avmedia	source\framework\mediacontrol.src	0	string	AVMEDIA_STR_ZOOM_FIT				1	kid	s63ac4‖Scaled				20100909 15:07:18
+avmedia	source\framework\mediacontrol.src	0	string	AVMEDIA_STR_MEDIAPLAYER				1	kid	+e12in‖Media Player				20100909 15:07:18
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_INSERTMEDIA_DLG				1	kid	3zhu5-‖Insert Movie and Sound				20100909 15:07:18
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_OPENMEDIA_DLG				1	kid	6tftsm‖Open Movie and Sound				20100909 15:07:18
+avmedia	source\viewer\mediawindow.src	0	string	AVMEDIA_STR_ALL_MEDIAFILES				1	kid	jphnxj‖All movie and sound files				20100909 15:07:18
