@@ -1,3 +1,3 @@
 ErstelleCSV
 ===========
-Dieses Programm benötigt python3-tk (zumindest untzer Debian)
+Dieses Programm benötigt python3-tk (zumindest unter Debian)
